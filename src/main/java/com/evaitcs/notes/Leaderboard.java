@@ -20,9 +20,9 @@ public class Leaderboard {
                 rInd++;
             }
 
-           result.add(place);
+           //result.add(place);
            // result.add(place + 1);
-           // result.add(0, place + 1);
+           result.add(0, place + 1);
          //   result.add(rInd);
         }
 
